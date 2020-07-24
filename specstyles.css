@@ -1,0 +1,54 @@
+  
+body {
+  font-size: 20px;
+  color: white;
+  background-color:black;
+  font-family: 'Oxygen', sans-serif;
+  padding-left: 5%;
+  border: 10px dashed  #7FFF00;
+  border-radius: 15px;
+
+
+}
+div{
+    font-size: 20px;
+    color:white;
+    
+    
+
+}
+a{
+  font-size: 20px;
+  color: white;
+  
+   
+}
+h1{ 
+  text-align: center;
+  color:    #7FFF00; 
+  font-size: 48px;
+}
+h2{
+  text-align: center;
+  color:  #7FFF00;
+  padding-right: 2%;
+  font-size:32px; 
+}
+p{
+    
+}
+a:hover,div:hover{
+    color: #7FFF00;
+    background-color: white;
+    width:100%;
+    font-weight: bold;
+    font-size: 24px;
+    outline: 3px double  #7FFF00;
+}
+li{
+    margin:0 1em ;
+}
+ol{
+    margin:0 1em ;
+}
+

@@ -40,7 +40,7 @@ p{
 a:hover,div:hover{
     color: #7FFF00;
     background-color: white;
-    width:100%;
+    
     font-weight: bold;
     font-size: 24px;
     outline: 3px double  #7FFF00;
